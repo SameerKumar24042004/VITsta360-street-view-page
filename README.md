@@ -10,7 +10,7 @@
 
 Vitsta360 is an innovative web application designed to showcase a 3D map view of VIT Bhopal. It provides an engaging and user-friendly platform for campus navigation and exploration.
 
-
+ 
 
 ## ✨ Features
 
