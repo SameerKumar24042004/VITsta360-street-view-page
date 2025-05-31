@@ -45,6 +45,6 @@ Heartfelt thanks to my mentors, peers, and everyone who supported me throughout 
 I'm excited to hear your feedback and ideas for improvement. Explore the platform and feel free to share your thoughts!
 
 ## Interface 
-![Page View](https://github.com/SameerKumar24042004/VITsta360-street-view-page/blob/8929ec3b2c94ae477092fc63028138ee30e611c7/VITsta360%20view/Lion.png)
+![Page View](https://github.com/SameerKumar24042004/VITsta360-street-view-page/blob/main/VITsta360%20view/2.gif)
 ##
-![Page View](https://github.com/SameerKumar24042004/VITsta360-street-view-page/blob/a068484595ffe4aea0ec4483a1148e935d7e5827/VITsta360%20view/AB.png)
+![Page View](https://github.com/SameerKumar24042004/VITsta360-street-view-page/blob/main/VITsta360%20view/3.gif)
