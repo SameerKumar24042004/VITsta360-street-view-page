@@ -1,5 +1,5 @@
 ## Vitsta360 - Interactive 3D Map of VIT Bhopal
-
+![Page View]([https://drive.google.com/file/d/1JoCjnLYOBvH5i5a4U7CWqZ1kc_w84wyl/view?usp=sharing)
 <img src="https://drive.google.com/file/d/1JoCjnLYOBvH5i5a4U7CWqZ1kc_w84wyl/view?usp=sharing" alt="Alt text" width="300" height="200">
 
 
