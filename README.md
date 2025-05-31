@@ -40,8 +40,10 @@ I aimed to create a meaningful project that adds value to the VIT Bhopal communi
 Heartfelt thanks to my mentors, peers, and everyone who supported me throughout this journey.
 
 
-
 #3 📣 Looking Ahead
 
 I'm excited to hear your feedback and ideas for improvement. Explore the platform and feel free to share your thoughts!
 
+## 
+Interface 
+![Page View](![Page View](https://github.com/SameerKumar24042004/VITsta360-street-view-page/blob/7b6ba230f486b79d7667baf7cdba9082c1e29a5b/VITsta360%20view/page%20view.png))
