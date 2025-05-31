@@ -1,5 +1,6 @@
 ## Vitsta360 - Interactive 3D Map of VIT Bhopal
-![Project Logo](VITsta360 view/page view.png)
+
+<img src="https://drive.google.com/file/d/1JoCjnLYOBvH5i5a4U7CWqZ1kc_w84wyl/view?usp=sharing" alt="Alt text" width="300" height="200">
 
 
 🔗 Project URL: https://vitsta360.techynar.com/
